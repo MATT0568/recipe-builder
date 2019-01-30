@@ -1,0 +1,9 @@
+DROP TABLE `recipebuilder`.`INGREDIENTS`;
+DROP TABLE `recipebuilder`.`RECIPE`;
+DROP TABLE `recipebuilder`.`INGREDIENT`;
+DROP TABLE `recipebuilder`.`APP_USERS`;
+DROP PROCEDURE `recipebuilder`.`add_user`;
+DROP PROCEDURE `recipebuilder`.`change_password`;
+DROP PROCEDURE `recipebuilder`.`valid_user`;
+DROP FUNCTION `recipebuilder`.`get_hash`;
+DROP FUNCTION `recipebuilder`.`valid_user`;
